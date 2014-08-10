@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.awan.dyned.general,com.randi.dyned.model,org.json.me,com.awan.dyned.utils,com.randi.dyned.view,com.randi.dyned.view.field,com.randi.dyned.tools,com.randi.dyned,com.randi.dyned.view.manager,com.randi.dyned.model.persistable,com.randi.dyned.model.connector" source="1.3" sourcepath="res;src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

@@ -1,0 +1,3051 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mainlist>
+	<appname>General English 6</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: The taste of vegetables.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0601A.jpg</image>
+				<audio>NDE0601A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Denise Collins. Hello, Denise.
+
+Denise: Hello, Kathy.
+
+Kathy: Denise, let's talk about food.
+
+Denise: OK. That's one of my favorite topics.
+
+Kathy: Which is more important to you: food that is healthy or food that tastes good?
+
+Denise: Healthy food or tasty food?
+
+Kathy: Yes.
+
+Denise: That's a difficult question... because I think that healthy food does taste good. For example, I love vegetables. I really like the taste of vegetables. And of course vegetables are very good for your health.
+
+Kathy: So you like food that tastes good and is healthy.
+
+Denise:	Yes!</viewscript>
+				<comprehension>
+					<title>Lesson 1-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Denise feel about healthy food?</question>
+						<option>She likes the taste of healthy food.</option>
+						<option>She likes healthy food even though it doesn't taste very good.</option>
+						<option>She prefers not to eat healthy food.</option>
+						<answer>She likes the taste of healthy food.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Denise like vegetables?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>Yes, but she prefers meat.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which is more important to Denise: how food tastes or how healthy it is?</question>
+						<option>Both are important to her.</option>
+						<option>how food tastes</option>
+						<option>how healthy it is</option>
+						<answer>Both are important to her.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I think that healthy food ______ good.</question>
+						<option>tastes</option>
+						<option>tasting</option>
+						<option>taste</option>
+						<answer>tastes</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I really like the _____ of vegetables.</question>
+						<option>taste</option>
+						<option>tasty</option>
+						<option>tasted</option>
+						<answer>taste</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Vegetables are very ____ for your health.</question>
+						<option>good</option>
+						<option>well</option>
+						<option>healthy</option>
+						<answer>good</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0601B.jpg</image>
+				<audio>NDE0601B.mp3</audio>
+				<viewscript>Kathy: We're talking about food with our guest, Denise Collins. Denise, do you like to cook?
+
+Denise:	Yes, I do. I like cooking.
+
+Kathy: Who does most of the cooking at your house?
+
+Denise:	I do. My husband does the shopping and I do most of the cooking. As you know, I'm blind. So it's not easy for me to do the shopping. But I'm a very good cook.
+
+Kathy: What are you going to cook tonight?
+
+Denise:	Tonight I'm going to make spaghetti.
+
+Kathy: What will you need?
+
+Denise:	I'll need some tomatoes and onions. And some cheese.
+
+Kathy: How many tomatoes will you need?
+
+Denise:	I'll need eight tomatoes. Eight large tomatoes.
+
+Kathy: And how many onions?
+
+Denise:	Only one. I'll only need one onion.
+
+Kathy: And how much cheese?
+
+Denise:	Only a little. I won't need very much cheese. Oh,... and of course I'll need a package of spaghetti.</viewscript>
+				<comprehension>
+					<title>Lesson 1-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0601B_Q1.mp3|Who does most of the cooking at Denise's house?</question>
+						<option>Denise</option>
+						<option>her husband</option>
+						<option>They cook together.</option>
+						<answer>Denise</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0601B_Q2.mp3|How many tomatoes will Denise need tonight?</question>
+						<option>eight</option>
+						<option>two</option>
+						<option>five</option>
+						<answer>eight</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0601B_Q3.mp3|How much cheese will she need?</question>
+						<option>only a little</option>
+						<option>a lot</option>
+						<option>one package</option>
+						<answer>only a little</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>for me</option>
+						<option>to do</option>
+						<option>the shopping.</option>
+						<option>It's</option>
+						<option>not</option>
+						<option>easy</option>
+						<answer>It's not easy for me to do the shopping.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>going to</option>
+						<option>What</option>
+						<option>you</option>
+						<option>are</option>
+						<option>tonight?</option>
+						<option>cook</option>
+						<answer>What are you going to cook tonight?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>cheese.</option>
+						<option>need</option>
+						<option>I</option>
+						<option>won't</option>
+						<option>much</option>
+						<option>very</option>
+						<answer>I won't need very much cheese.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0601C.jpg</image>
+				<audio>NDE0601C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Denise Collins. We're talking about food. What does your husband like to eat?
+
+Denise:	Well, my husband Sam's a meat eater. He loves all kinds of meat--hamburgers, steaks, hot dogs, all kinds of meat.
+
+Kathy: How about you? Do you like meat?
+
+Denise:	Well, I like some kinds of meat, but I prefer vegetables, especially corn. I love fresh corn! Oh... and salads. I love salads.
+
+Kathy: What about desserts? Do you like desserts?
+
+Denise:	My favorite dessert is chocolate cake. But I can't eat too much... It's fattening.
+
+Kathy: But it's delicious, isn't it?
+
+Denise:	Mmmm yes.</viewscript>
+				<comprehension>
+					<title>Lesson 1-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who prefers meat, Denise or her husband, Sam?</question>
+						<option>Sam</option>
+						<option>Denise</option>
+						<option>They both love meat.</option>
+						<answer>Sam</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is Denise's favorite vegetable?</question>
+						<option>corn</option>
+						<option>tomatoes</option>
+						<option>green beans</option>
+						<answer>corn</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Denise feel about chocolate cake?</question>
+						<option>It's her favorite dessert.</option>
+						<option>She never eats dessert.</option>
+						<option>She doesn't eat cake because it's too fattening.</option>
+						<answer>It's her favorite dessert.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What does your husband ____ to eat?</question>
+						<option>like</option>
+						<option>likes</option>
+						<option>liking</option>
+						<answer>like</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I like some kinds of meat, ___ I prefer vegetables.</question>
+						<option>but</option>
+						<option>if</option>
+						<option>or</option>
+						<answer>but</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I can't eat too much chocolate cake, because it's _________.</question>
+						<option>fattening</option>
+						<option>delicious</option>
+						<option>healthy</option>
+						<answer>fattening</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: I drink 8 glasses of water a day.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0602A.jpg</image>
+				<audio>NDE0602A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Mike Johnson. Hello, Mike. Welcome back to our show.
+
+Mike: It's nice to be here again, Kathy.
+
+Kathy: I see you brought a bottle of water with you.
+
+Mike: Yes, I never go anywhere without water. I always have a bottle of water at my desk at work.
+
+Kathy: Why is that?
+
+Mike: Doctors say that we don't drink enough water.
+
+Kathy: So how much water do you drink each day?
+
+Mike: I drink eight glasses of water a day.
+
+Kathy: Eight glasses!  That's a lot.
+
+Mike: Well, I drink water at work and at home. And when I ride my bike, I always have a bottle of water with me. I get thirsty, and water tastes great.</viewscript>
+				<comprehension>
+					<title>Lesson 2-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Mike always bring with him?</question>
+						<option>a bottle of water</option>
+						<option>a glass of water</option>
+						<option>8 glasses of water</option>
+						<answer>a bottle of water</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many glasses of water does Mike drink each day?</question>
+						<option>eight</option>
+						<option>six</option>
+						<option>four</option>
+						<answer>eight</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Mike like the taste of water?</question>
+						<option>Yes, he does.</option>
+						<option>He doesn't say.</option>
+						<option>No, he doesn't.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I ________ anywhere without water.</question>
+						<option>never go</option>
+						<option>ever go</option>
+						<option>have ever go</option>
+						<answer>never go</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Doctors say that we don't drink _____ water.</question>
+						<option>enough</option>
+						<option>plenty</option>
+						<option>many</option>
+						<answer>enough</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>How ____ water do you drink every day?</question>
+						<option>much</option>
+						<option>many</option>
+						<option>about</option>
+						<answer>much</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0602B.jpg</image>
+				<audio>NDE0602B.mp3</audio>
+				<viewscript>Kathy: We're back with our guest, Mike Johnson. Mike drinks eight glasses of water a day. Mike, do you ever drink coffee?
+
+Mike: Yes, I do. I love coffee.
+
+Kathy: How many cups of coffee do you drink a day?
+
+Mike: Oh, I drink about two or three cups a day.
+
+Kathy: What about tea? Do you drink tea?
+
+Mike: Oh, I sometimes drink tea.
+
+Kathy: How much tea do you drink?
+
+Mike: I don't drink a lot. Sometimes I drink a cup of tea in the evening, before I go to bed.</viewscript>
+				<comprehension>
+					<title>Lesson 2-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0602B_Q1.mp3|How much coffee does Mike drink?</question>
+						<option>He drinks about two or three cups a day.</option>
+						<option>He doesn't drink coffee.</option>
+						<option>About a cup a day.</option>
+						<answer>He drinks about two or three cups a day.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0602B_Q2.mp3|Which does he drink more often, coffee or tea?</question>
+						<option>coffee</option>
+						<option>tea</option>
+						<option>He doesn't drink coffee.</option>
+						<answer>coffee</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0602B_Q3.mp3|When does he drink tea?</question>
+						<option>in the evening</option>
+						<option>in the morning</option>
+						<option>He doesn't drink tea.</option>
+						<answer>in the evening</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>of coffee</option>
+						<option>do you</option>
+						<option>How</option>
+						<option>many</option>
+						<option>cups</option>
+						<option>drink?</option>
+						<answer>How many cups of coffee do you drink?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>drink?</option>
+						<option>you</option>
+						<option>do</option>
+						<option>tea</option>
+						<option>much</option>
+						<option>How</option>
+						<answer>How much tea do you drink?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>cups a day.</option>
+						<option>or three</option>
+						<option>two</option>
+						<option>about</option>
+						<option>drink</option>
+						<option>I</option>
+						<answer>I drink about two or three cups a day.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0602C.jpg</image>
+				<audio>NDE0602C.mp3</audio>
+				<viewscript>Kathy: Mike, I'd like to ask you a question.
+
+Mike: Yes.
+
+Kathy: Do you ever drink milk?
+
+Mike: When I was a child, I drank milk. Most American children like to drink milk. But I don't drink milk much anymore. In fact, I don't like the taste of milk.
+
+Kathy: Do you put milk in your coffee?
+
+Mike: No, I don't. I drink my coffee without milk.</viewscript>
+				<comprehension>
+					<title>Lesson 2-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Did Mike ever drink milk?</question>
+						<option>Yes, when he was a child.</option>
+						<option>No, he never drank milk.</option>
+						<option>Yes, he often drinks milk.</option>
+						<answer>Yes, when he was a child.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does he think about the taste of milk?</question>
+						<option>He doesn't like it.</option>
+						<option>He likes the taste of milk.</option>
+						<option>He likes milk in his coffee.</option>
+						<answer>He doesn't like it.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Mike drink his coffee?</question>
+						<option>without milk</option>
+						<option>with milk</option>
+						<option>with milk and sugar</option>
+						<answer>without milk</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Most American children _______ drink milk.</question>
+						<option>like to</option>
+						<option>like</option>
+						<option>likes</option>
+						<answer>like to</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _____ drink milk much anymore.</question>
+						<option>don't</option>
+						<option>not</option>
+						<option>don't like</option>
+						<answer>don't</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Do you ___ milk in your coffee?</question>
+						<option>put</option>
+						<option>to put</option>
+						<option>putting</option>
+						<answer>put</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: Do you like e-mail?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0603A.jpg</image>
+				<audio>NDE0603A.mp3</audio>
+				<viewscript>Kathy: Hi, Max. 
+
+Max: Hi, Kathy.
+
+Kathy: What's that?
+
+Max: It's a postcard. From John... John Orwell.
+
+Kathy: Oh, your friend, the writer.
+
+Max: Yes.
+
+Kathy: Where is he?
+
+Max: Well, he took the train across the country. And he sent us this postcard from Salt Lake City, Utah. And on the back there's a picture of the Great Salt Lake. He says that he's having a great time!
+
+Kathy: Wonderful.
+
+Max: Well, Kathy... who's our guest today?
+
+Kathy: Today, our guest is Martha Harris.
+
+Max: And what's she going to talk about?
+
+Kathy: She's going to talk about writing and her computer.
+
+Max: Great.</viewscript>
+				<comprehension>
+					<title>Lesson 3-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Max show to Kathy?</question>
+						<option>a postcard from John Orwell</option>
+						<option>a picture of John Orwell</option>
+						<option>a letter from John Orwell</option>
+						<answer>a postcard from John Orwell</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How is John travelling across the United States?</question>
+						<option>by train</option>
+						<option>by bus</option>
+						<option>by car</option>
+						<answer>by train</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is Martha Harris going to talk about?</question>
+						<option>writing and her computer</option>
+						<option>her latest book</option>
+						<option>her latest vacation</option>
+						<answer>writing and her computer</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>John ____ a train across the country.</question>
+						<option>took</option>
+						<option>take</option>
+						<option>taking</option>
+						<answer>took</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He says that he's _____ a great time.</question>
+						<option>having</option>
+						<option>has</option>
+						<option>have</option>
+						<answer>having</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Martha is going _______ about writing and her computer.</question>
+						<option>to talk</option>
+						<option>talk</option>
+						<option>talking</option>
+						<answer>to talk</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0603B.jpg</image>
+				<audio>NDE0603B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Martha is a writer. She writes mystery stories. Martha, do you use a computer?
+
+Martha: I sure do. I use it every day. I use it to write my stories. And I use it for e-mail.
+
+Kathy: Do you like e-mail?
+
+Martha:	Oh, yes. It's very convenient and it's faster than the mail. If I send a message today, it arrives today. And it's less expensive. It costs less to send an e-mail message than to send a letter.
+
+Kathy: So you're really an e-mail fan.
+
+Martha: Yes, I guess I am.</viewscript>
+				<comprehension>
+					<title>Lesson 3-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0603B_Q1.mp3|How often does Martha use her computer?</question>
+						<option>every day</option>
+						<option>several times a week</option>
+						<option>not very often</option>
+						<answer>every day</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0603B_Q2.mp3|How does e-mail compare with the regular mail?</question>
+						<option>It's less expensive.</option>
+						<option>It's less convenient.</option>
+						<option>It's not as fast.</option>
+						<answer>It's less expensive.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0603B_Q3.mp3|Which costs less, sending an e-mail or a letter?</question>
+						<option>an email</option>
+						<option>a letter</option>
+						<option>They both cost about the same.</option>
+						<answer>an email</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>a computer</option>
+						<option>to write</option>
+						<option>my stories.</option>
+						<option>I</option>
+						<option>use</option>
+						<answer>I use a computer to write my stories.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I send</option>
+						<option>a message</option>
+						<option>it arrives</option>
+						<option>If</option>
+						<option>today,</option>
+						<option>today.</option>
+						<answer>If I send a message today, it arrives today.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>It costs</option>
+						<option>to send</option>
+						<option>an e-mail</option>
+						<option>message.</option>
+						<option>less</option>
+						<answer>It costs less to send an e-mail message.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0603C.jpg</image>
+				<audio>NDE0603C.mp3</audio>
+				<viewscript>Kathy: We're talking with Martha Harris about e-mail. Is there anything you don't like about e-mail?
+
+Martha: Well, I get too many messages. I don't like that. Every day I get twenty e-mail messages.
+
+Kathy: Who are they from?
+
+Martha: Some of them are from friends, and some are from my publisher. But a lot of the messages are 'junk mail.'
+
+Kathy: Junk mail?
+
+Martha: Yes. Advertisements. From companies that want to sell me something.
+
+Kathy: So there are some problems with e-mail.
+
+Martha: Yes, I guess so. I love e-mail and I hate it.</viewscript>
+				<comprehension>
+					<title>Lesson 3-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What doesn't Martha like about e-mail?</question>
+						<option>She gets too many messages.</option>
+						<option>She doesn't get enough messages.</option>
+						<option>All of her e-mail messages are advertisements.</option>
+						<answer>She gets too many messages.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many e-mail messages does Martha get each day?</question>
+						<option>twenty</option>
+						<option>two</option>
+						<option>two hundred</option>
+						<answer>twenty</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is 'junk mail'?</question>
+						<option>messages from companies that want to sell you something</option>
+						<option>messages from people you know</option>
+						<option>messages that are too long</option>
+						<answer>messages from companies that want to sell you something</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I get ________ messages.</question>
+						<option>too many</option>
+						<option>too much</option>
+						<option>so much</option>
+						<answer>too many</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_______ Martha's messages are 'junk mail.'</question>
+						<option>A lot of</option>
+						<option>Many</option>
+						<option>Lots</option>
+						<answer>A lot of</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>There are some ________ with e-mail.</question>
+						<option>problems</option>
+						<option>problem</option>
+						<option>many problem</option>
+						<answer>problems</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0603_bonus.jpg</image>
+				<audio>NDE0603_BONUS.mp3</audio>
+				<viewscript>Kent: Hello. This is the New Dynamic English Man on the Street, Kent Moss. With me is Tom Jordan. Tom, can you tell us what you're doing here on the sidewalk?
+
+Tom: I'm selling comic books.
+
+Kent: Selling comic books?? What kind of comics are you selling?
+
+Tom: Superman comics. I have over one hundred Superman comic books!
+
+Kent: How about Batman? Do you have any Batman comic books?
+
+Tom: Nope. Just Superman.
+
+Kent: Superman, Batman,... I read all those comics when I was a boy.
+
+Tom: Not me. I didn't read any comics except Superman. I wanted to be Superman. I wanted to fly! And I liked his clothes!
+
+Kent: Oh, so that's why you're wearing a Superman suit!</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is the man doing?</question>
+						<option>selling comic books</option>
+						<option>buying comic books</option>
+						<option>reading comic books</option>
+						<answer>selling comic books</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many Superman comics does he have?</question>
+						<option>over 100</option>
+						<option>more than 200</option>
+						<option>about 50</option>
+						<answer>over 100</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When he was a boy, what did the man want to do?</question>
+						<option>fly</option>
+						<option>write comic books</option>
+						<option>be like Batman</option>
+						<answer>fly</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What kind of comics are you _______?</question>
+						<option>selling</option>
+						<option>sell</option>
+						<option>sold</option>
+						<answer>selling</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you have ___ Batman comics?</question>
+						<option>any</option>
+						<option>a</option>
+						<option>the</option>
+						<answer>any</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I didn't read any comics _______ Superman.</question>
+						<option>except</option>
+						<option>or</option>
+						<option>unless</option>
+						<answer>except</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: I listen to the radio.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0604A.jpg</image>
+				<audio>NDE0604A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Sandy is a science student at American University. Tell us, Sandy, how is school going?
+
+Sandy: It's going well. I'm studying very hard, and my grades are pretty good.
+
+Kathy: How many hours a day do you study?
+
+Sandy: About five or six hours a day, plus classes.
+
+Kathy: Do you study at the library?
+
+Sandy: At the library and in my room. I like to listen to the radio when I study. I can't listen to the radio in the library. So I study in my room as much as possible.
+
+Kathy: What do you listen to on the radio?
+
+Sandy: Mostly music. But there is one problem.
+
+Kathy: What's that?
+
+Sandy: My roommate Jake. Jake can't study with the radio on. He likes quiet. So I have to turn off the radio when Jake wants to study.
+
+Kathy: Oh, I see. That is a problem.</viewscript>
+				<comprehension>
+					<title>Lesson 4-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many hours a day does Sandy study?</question>
+						<option>about 5 to 6 hours a day, plus classes</option>
+						<option>about 5 to 6 hours a day, including classes</option>
+						<option>He has 5 to 6 hours of classes each day.</option>
+						<answer>about 5 to 6 hours a day, plus classes</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why does Sandy prefer to study in his room?</question>
+						<option>Because he likes to listen to the radio when he studies.</option>
+						<option>Because he likes to study by himself.</option>
+						<option>Because the library isn't as comfortable as his room.</option>
+						<answer>Because he likes to listen to the radio when he studies.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Sandy's roommate like to listen to the radio when he studies?</question>
+						<option>No, he doesn't. He likes quiet.</option>
+						<option>He likes to listen to music when he studies.</option>
+						<option>No. He likes to watch television when he studies.</option>
+						<answer>No, he doesn't. He likes quiet.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I like to _________ the radio when I study.</question>
+						<option>listen to</option>
+						<option>listen</option>
+						<option>listening</option>
+						<answer>listen to</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _____ listen to the radio in the library.</question>
+						<option>can't</option>
+						<option>no can</option>
+						<option>can't to</option>
+						<answer>can't</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I have to ____ off the radio when Jake wants to study.</question>
+						<option>turn</option>
+						<option>take</option>
+						<option>make</option>
+						<answer>turn</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0604B.jpg</image>
+				<audio>NDE0604B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Sandy likes to listen to the radio. What about television, Sandy? Do you like to watch television?
+
+Sandy: Yes, but not when I'm studying. I watch TV late at night, after I finish studying.
+
+Kathy: What do you watch?
+
+Sandy: I like to watch old movies on television.
+
+Kathy: What else do you watch on TV?
+
+Sandy: Well, on weekends, I watch sports.
+
+Kathy: What kinds of sports do you watch?
+
+Sandy: Let's see...  I watch basketball ... and football.
+
+Kathy: Any other sports, besides basketball and football?
+
+Sandy: I sometimes watch baseball on TV.</viewscript>
+				<comprehension>
+					<title>Lesson 4-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0604B_Q1.mp3|When does Sandy like to watch TV?</question>
+						<option>late at night</option>
+						<option>when he's studying</option>
+						<option>when he's eating dinner</option>
+						<answer>late at night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0604B_Q2.mp3|What does he like to watch on television?</question>
+						<option>old movies</option>
+						<option>police dramas</option>
+						<option>family comedies</option>
+						<answer>old movies</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0604B_Q3.mp3|What does he watch on weekends?</question>
+						<option>sports</option>
+						<option>talk shows</option>
+						<option>He doesn't watch TV on weekends.</option>
+						<answer>sports</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I watch</option>
+						<option>at night,</option>
+						<option>after I</option>
+						<option>finish studying.</option>
+						<option>television</option>
+						<option>late</option>
+						<answer>I watch television late at night, after I finish studying.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I like</option>
+						<option>on TV.</option>
+						<option>to</option>
+						<option>watch</option>
+						<option>old</option>
+						<option>movies</option>
+						<answer>I like to watch old movies on TV.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>kinds of</option>
+						<option>What</option>
+						<option>sports</option>
+						<option>do</option>
+						<option>you</option>
+						<option>watch?</option>
+						<answer>What kinds of sports do you watch?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0604C.jpg</image>
+				<audio>NDE0604C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. We're talking about listening to the radio and watching television.
+
+Sandy: You know, sometimes I listen to the radio and watch television at the same time.
+
+Kathy: At the same time?
+
+Sandy: Yes.  I turn off the sound on the television. And I turn on the radio. I listen to the radio while I watch television.
+
+Kathy: You watch television without the sound and you listen to the radio?
+
+Sandy: Yes. For example, when I watch baseball on TV, I don't like to listen to the announcers. So I turn off the sound. And I listen to music on the radio... while I watch the baseball game.
+
+Kathy: That's very interesting.
+
+Sandy: You should try it sometime.</viewscript>
+				<comprehension>
+					<title>Lesson 4-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Sandy watch TV and listen to the radio at the same time?</question>
+						<option>He turns off the sound on the TV.</option>
+						<option>He turns on the sound on the TV.</option>
+						<option>He turns off the sound on the radio.</option>
+						<answer>He turns off the sound on the TV.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does he listen to while he watches baseball on TV?</question>
+						<option>music</option>
+						<option>the announcers</option>
+						<option>the baseball game</option>
+						<answer>music</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Sandy feel about the baseball announcers?</question>
+						<option>He doesn't like to listen to them.</option>
+						<option>He doesn't understand what they are saying.</option>
+						<option>He enjoys listening to them.</option>
+						<answer>He doesn't like to listen to them.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I listen to the radio while I _____ television.</question>
+						<option>watch</option>
+						<option>watch to</option>
+						<option>am watch</option>
+						<answer>watch</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Sandy watches television without the _____ and he listens to the radio.</question>
+						<option>sound</option>
+						<option>picture</option>
+						<option>sports</option>
+						<answer>sound</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>When I watch baseball _____ TV, I don't like to listen to the announcers.</question>
+						<option>on</option>
+						<option>with</option>
+						<option>the</option>
+						<answer>on</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: She's wearing a green jacket.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0605A.jpg</image>
+				<audio>NDE0605A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Jenny Chen. Jenny is a fashion model. Hello, Jenny.
+
+Jenny: Hi, Kathy.
+
+Kathy: Jenny, that's a very beautiful jacket!
+
+Jenny: Thank you.
+
+Kathy: Let me describe your clothes for our listeners. Jenny is wearing a green jacket with a white blouse. She's wearing a black skirt. You look very nice.
+
+Jenny: Thank you, Kathy. This is one of my favorite jackets. I like the color green.
+
+Kathy: Well, it looks really good on you.</viewscript>
+				<comprehension>
+					<title>Lesson 5-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What color is Jenny's blouse?</question>
+						<option>white</option>
+						<option>green</option>
+						<option>black</option>
+						<answer>white</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which piece of clothing is black?</question>
+						<option>Jenny's skirt</option>
+						<option>Jenny's shirt</option>
+						<option>Jenny's jacket</option>
+						<answer>Jenny's skirt</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Jenny feel about the color green?</question>
+						<option>She likes it.</option>
+						<option>She doesn't like it very much.</option>
+						<option>She never wears green clothing.</option>
+						<answer>She likes it.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Jenny __________ a green jacket and a white blouse.</question>
+						<option>is wearing</option>
+						<option>wearing</option>
+						<option>wear</option>
+						<answer>is wearing</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_____ wearing a black skirt.</question>
+						<option>She's</option>
+						<option>She</option>
+						<option>Her</option>
+						<answer>She's</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It really _____ good on you.</question>
+						<option>looks</option>
+						<option>look</option>
+						<option>looking</option>
+						<answer>looks</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0605B.jpg</image>
+				<audio>NDE0605B.mp3</audio>
+				<viewscript>Kathy: We're talking with Jenny Chen. Jenny is a fashion model. She is wearing a green jacket with a white blouse and a black skirt. Jenny, that black skirt looks really good with your green jacket.
+
+Jenny: Thank you. I think the colors black and green look good together.
+
+Kathy: What's your favorite color?
+
+Jenny: My favorite color?  Blue. Blue is my favorite color. It's the color of the sky and water. What about you, Kathy?  What's your favorite color?
+
+Kathy: My favorite color is... red. Red is the color of the heart.
+
+Jenny: It's the color of love and roses!
+
+Kathy: Yes, I guess it is.</viewscript>
+				<comprehension>
+					<title>Lesson 5-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0605B_Q1.mp3|How does Jenny feel about the colors green and black?</question>
+						<option>She thinks they look good together.</option>
+						<option>She likes green, but she doesn't like black.</option>
+						<option>They are her favorite colors.</option>
+						<answer>She thinks they look good together.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0605B_Q2.mp3|What's Jenny's favorite color?</question>
+						<option>blue</option>
+						<option>green</option>
+						<option>black</option>
+						<answer>blue</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0605B_Q3.mp3|What is the color of the heart?</question>
+						<option>red</option>
+						<option>blue</option>
+						<option>green</option>
+						<answer>red</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>is wearing</option>
+						<option>a green</option>
+						<option>with a</option>
+						<option>white blouse.</option>
+						<option>She</option>
+						<option>jacket</option>
+						<answer>She is wearing a green jacket with a white blouse.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I think</option>
+						<option>the colors</option>
+						<option>and green</option>
+						<option>look good</option>
+						<option>black</option>
+						<option>together.</option>
+						<answer>I think the colors black and green look good together.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the color</option>
+						<option>of love</option>
+						<option>Red</option>
+						<option>is</option>
+						<option>and</option>
+						<option>roses.</option>
+						<answer>Red is the color of love and roses.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0605C.jpg</image>
+				<audio>NDE0605C.mp3</audio>
+				<viewscript>Kathy: We're talking with Jenny Chen. Jenny is a fashion model. You wear different colors at different times of year, don't you?
+
+Jenny: Yes, I do. In the spring and summer, I wear bright colors, like yellow and red and orange.
+
+Kathy: What colors do you wear in the fall?
+
+Jenny: In the fall and winter, I wear dark colors:  dark green and dark brown, or black. But I often also add something bright and colorful, like a red or yellow scarf.
+
+Kathy: I'm sure that looks very nice.
+
+Jenny: Well, clothing is important to me. I like to look nice.</viewscript>
+				<comprehension>
+					<title>Lesson 5-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of colors does Jenny wear in summer?</question>
+						<option>bright colors</option>
+						<option>dark colors</option>
+						<option>soft colors</option>
+						<answer>bright colors</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which of these colors is the brightest?</question>
+						<option>yellow</option>
+						<option>brown</option>
+						<option>black</option>
+						<answer>yellow</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When does Jenny wear dark colors?</question>
+						<option>in the fall and winter</option>
+						<option>all year round</option>
+						<option>when it's warm outside</option>
+						<answer>in the fall and winter</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>In the spring and summer, I ____ bright colors.</question>
+						<option>wear</option>
+						<option>am wearing</option>
+						<option>wears</option>
+						<answer>wear</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What colors __ you wear in the fall?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>does</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Clothing __ important to me. I like to look nice.</question>
+						<option>is</option>
+						<option>are</option>
+						<option>has</option>
+						<answer>is</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: I hear someone walking.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0606A.jpg</image>
+				<audio>NDE0606A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Pat Miller. Pat is a drama student at American University, here in Washington, DC. Hi Pat.
+
+Pat: Hi Kathy.
+
+Kathy: How are things going?
+
+Pat: Well, I'm going to be in a radio play next month.
+
+Kathy: A radio play?
+
+Pat: Yes, we're going to perform it on our university radio station.
+
+Kathy: Is it difficult to act in a radio play?
+
+Pat: Well, it's different from stage acting. When the audience watches a stage play, they can see and hear the actors on the stage. But in a radio play, the audience can only listen. They have to use their imaginations. Let me give you an example. Listen to these sounds:
+
+SFX: footsteps
+
+Kathy: Footsteps. I hear footsteps. I hear someone walking.
+
+SFX: knocking
+
+Kathy: Someone is knocking... knocking on a door. I hear someone knocking on a door.
+
+SFX: door opening
+
+Kathy: The door is opening. I hear someone opening the door.
+
+SFX: footsteps, getting louder
+
+Old man: Hello...? Is anybody home?
+
+Kathy: It sounds like an old man... a very old man.
+
+Pat: That's right.
+
+Kathy: I can't see him, but I can hear him. I know he's there.
+
+Pat: Yes. You used your imagination.
+
+Kathy: Yes, I did. I imagined an old man.</viewscript>
+				<comprehension>
+					<title>Lesson 6-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where will Pat's play be performed?</question>
+						<option>on the radio</option>
+						<option>in an outdoor theater</option>
+						<option>on a stage</option>
+						<answer>on the radio</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Pat think it is more difficult to act in a radio play or in a stage play?</question>
+						<option>She doesn't say which is more difficult.</option>
+						<option>Acting in a radio play is more difficult.</option>
+						<option>Acting in a stage play is more difficult.</option>
+						<answer>She doesn't say which is more difficult.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Kathy know that the man is old?</question>
+						<option>by how he sounds</option>
+						<option>by how he looks</option>
+						<option>by what he says</option>
+						<answer>by how he sounds</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>The audience can ___ and hear the actors on the stage.</question>
+						<option>see</option>
+						<option>to see</option>
+						<option>sees</option>
+						<answer>see</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I hear someone ________ on a door.</question>
+						<option>knocking</option>
+						<option>knocks</option>
+						<option>to knock</option>
+						<answer>knocking</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It ______ like a very old man.</question>
+						<option>sounds</option>
+						<option>listens</option>
+						<option>hears</option>
+						<answer>sounds</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0606B.jpg</image>
+				<audio>NDE0606B.mp3</audio>
+				<viewscript>Kathy: We're talking with Pat Miller. She's going to be in a radio play next month. What part... what character will you play?
+
+Pat: Well, actually, I'll play two characters. I'll play a young girl named Amy, and an older woman named Barbara. When I play Amy, I'll change my voice. I'll sound like a young girl. A young girl with a loud voice. Listen ... "Hi, Kathy.  How are you doing?"
+
+Kathy: Well, hello, ... Amy.  How are you?
+
+Pat: "Great! Oh, I'm super!"
+
+Kathy: OK. Now let's hear Barbara.
+
+Pat: OK. When I play Barbara, I'll sound like an older woman. I'll speak with a very quiet voice. "Hello, Kathy.  I'm very pleased to meet you."
+
+Kathy: I'm very pleased to meet you too, ... Barbara.
+
+Pat: "Thank you for inviting me."
+
+Kathy: That's great, Pat. You're a very good actor. I'm sure the radio play will be a success.
+
+Pat: Thank you. Thank you very much.</viewscript>
+				<comprehension>
+					<title>Lesson 6-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0606B_Q1.mp3|Which character will Pat play, Amy or Barbara?</question>
+						<option>She'll play both characters.</option>
+						<option>Amy</option>
+						<option>Barbara</option>
+						<answer>She'll play both characters.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0606B_Q2.mp3|Which character is younger, Amy or Barbara?</question>
+						<option>Amy</option>
+						<option>Barbara</option>
+						<option>They are at the same age.</option>
+						<answer>Amy</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0606B_Q3.mp3|Who speaks with a very quiet voice?</question>
+						<option>Barbara</option>
+						<option>Amy</option>
+						<option>Kathy</option>
+						<answer>Barbara</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I play</option>
+						<option>my voice.</option>
+						<option>When</option>
+						<option>Amy,</option>
+						<option>I'll</option>
+						<option>change</option>
+						<answer>When I play Amy, I'll change my voice.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>sound like</option>
+						<option>an older</option>
+						<option>when I</option>
+						<option>play Barbara.</option>
+						<option>I'll</option>
+						<option>woman</option>
+						<answer>I'll sound like an older woman when I play Barbara.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the radio play</option>
+						<option>a success.</option>
+						<option>I'm</option>
+						<option>sure</option>
+						<option>will</option>
+						<option>be</option>
+						<answer>I'm sure the radio play will be a success.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0606C.jpg</image>
+				<audio>NDE0606C.mp3</audio>
+				<viewscript>Kathy: We're talking with Pat Miller. She's going to be in a radio play next month. Pat, which do you like better, stage plays or radio plays?
+
+Pat: I guess I prefer stage plays. In radio plays, I change the way I sound. In stage plays, I change the way I sound and the way I look. I sound like a different person and I look like a different person. It's challenging and really fun!
+
+Kathy: Well, Pat, thanks for being our guest.
+
+Pat: Oh, thank you!  And please listen to our play next month.
+
+Kathy: I definitely will!</viewscript>
+				<comprehension>
+					<title>Lesson 6-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When is Pat's radio play going to be performed?</question>
+						<option>next month</option>
+						<option>next week</option>
+						<option>later this month</option>
+						<answer>next month</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which does Pat like better, stage plays or radio plays?</question>
+						<option>stage plays</option>
+						<option>radio plays</option>
+						<option>She has never been in a radio play.</option>
+						<answer>stage plays</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When she is in a radio play, does Pat change how she sounds and how she looks?</question>
+						<option>No. She doesn't have to change the way she looks.</option>
+						<option>Yes, she does.  She needs to look like the character she is playing.</option>
+						<option>No, she doesn't. She uses her normal voice when she is in a radio play.</option>
+						<answer>No. She doesn't have to change the way she looks.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Which __ you like better, stage plays or radio plays?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>can</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I sound ____ a different person and I look like a different person.</question>
+						<option>like</option>
+						<option>likes</option>
+						<option>like to</option>
+						<answer>like</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Please ______ to our play next month.</question>
+						<option>listen</option>
+						<option>hear</option>
+						<option>see</option>
+						<answer>listen</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0606_bonus.jpg</image>
+				<audio>NDE0606_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. I'm standing in front of a painting at the National Gallery of Art. With me is the artist, Blake Hines. Blake, what do you call this painting?
+
+Blake: I call it "Winter."
+
+Kent: Ah...I see... the black lines look like trees in winter, trees with no leaves.
+
+Blake: Yes. That's right.
+
+Kent: And this painting over here, with a lot of red, pink and green. These shapes look like... flowers. Is this... "Spring"?
+
+Blake: Right again! It's called "Spring."
+
+Kent: And, of course, this one with lots of brown, orange and yellow... It's "Fall," isn't it?
+
+Blake: Yes, "Fall."
+
+Kent: And this one... let's see... there's a large red... uh, shape, and over here... these look like bright green grapes...
+
+Blake: Well... actually...
+
+Kent: No, no, don't tell me! It's "Summer," isn't it?
+
+Blake: Well...actually...no. I call this one... "Mother."
+
+Kent: Ah... well... It's a very ... nice picture.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which painting has black lines that look like trees?</question>
+						<option>"Winter"</option>
+						<option>"Spring"</option>
+						<option>"Summer"</option>
+						<answer>"Winter"</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which painting has lots of brown, orange, and yellow?</question>
+						<option>"Fall"</option>
+						<option>"Winter"</option>
+						<option>"Spring"</option>
+						<answer>"Fall"</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Kent guess the names of the paintings?</question>
+						<option>by the colors in the painting</option>
+						<option>by the size of the painting</option>
+						<option>by the people in the people</option>
+						<answer>by the colors in the painting</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What __ you call this painting?</question>
+						<option>are</option>
+						<option>is</option>
+						<option>do</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>These shapes _________ flowers.</question>
+						<option>look like</option>
+						<option>look</option>
+						<option>looks like</option>
+						<answer>look like</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I ____ this painting "Mother."</question>
+						<option>call</option>
+						<option>calling</option>
+						<option>am called</option>
+						<answer>call</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: Where did you grow up?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0607A.jpg</image>
+				<audio>NDE0607A.mp3</audio>
+				<viewscript>Kathy: Hi Max. What are you reading?
+				
+Max: Oh, this book? It's a biography of Albert Einstein.
+
+Kathy: Einstein, the famous scientist?
+
+Max: Yes, Albert Einstein was one of the greatest scientists of all time.
+
+Kathy: He was German, wasn't he?
+
+Max: Well, he was born in Germany. He was born in Germany in 1879. But he lived in Germany, Switzerland, and finally the United States.
+
+Kathy: Well, enjoy your book.
+
+Max: Thanks. OK, Kathy, who's our guest today?
+
+Kathy: Today's guest is Mike Johnson. He works for a bank in San Francisco. Today he's going to tell us about his childhood.</viewscript>
+				<comprehension>
+					<title>Lesson 7-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What book is Max reading?</question>
+						<option>a biography of Albert Einstein</option>
+						<option>a history of Germany</option>
+						<option>a novel about a great scientist</option>
+						<answer>a biography of Albert Einstein</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where was Albert Einstein born?</question>
+						<option>in Germany</option>
+						<option>in Switzerland</option>
+						<option>in the United States</option>
+						<answer>in Germany</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who will be Kathy's next guest?</question>
+						<option>Mike Johnson</option>
+						<option>Albert Einstein</option>
+						<option>Max</option>
+						<answer>Mike Johnson</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Albert Einstein was one of the ________ scientists of all time.</question>
+						<option>greatest</option>
+						<option>more great</option>
+						<option>greater</option>
+						<answer>greatest</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Einstein ___ born in Germany in 1879.</question>
+						<option>was</option>
+						<option>has</option>
+						<option>were</option>
+						<answer>was</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Mike Johnson _____ for a bank in San Francisco.</question>
+						<option>works</option>
+						<option>working</option>
+						<option>is work</option>
+						<answer>works</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0607B.jpg</image>
+				<audio>NDE0607B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Mike Johnson. Hi, Mike. Welcome back.
+
+Mike: Thanks.
+
+Kathy: Mike, you live in San Francisco, don't you?
+
+Mike: Yes, that's right.
+
+Kathy: Were you born in San Francisco?
+
+Mike: No, I wasn't.  I was born in Mississippi.
+
+Kathy: In Mississippi.  So you grew up in the South?
+
+Mike: Yes, I did.  When I was three years old, my family moved to Atlanta, Georgia. I grew up in Atlanta, and I went to school there. And I went to college in Georgia, at Georgia State.
+
+Kathy: When did you move to San Francisco?
+
+Mike: I moved there in 1997, after I got my job at Stagecoach Bank.</viewscript>
+				<comprehension>
+					<title>Lesson 7-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0607B_Q1.mp3|Where was Mike born?</question>
+						<option>in Mississippi</option>
+						<option>in Georgia</option>
+						<option>in San Francisco</option>
+						<answer>in Mississippi</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0607B_Q2.mp3|Where did he grow up?</question>
+						<option>in Mississippi</option>
+						<option>in Georgia</option>
+						<option>in San Francisco</option>
+						<answer>in Georgia</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0607B_Q3.mp3|When did he move to San Francisco?</question>
+						<option>1997</option>
+						<option>1990</option>
+						<option>1970</option>
+						<answer>1997</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I</option>
+						<option>Mississippi.</option>
+						<option>was</option>
+						<option>born</option>
+						<option>in</option>
+						<answer>I was born in Mississippi.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>three years old,</option>
+						<option>my family</option>
+						<option>to Georgia.</option>
+						<option>When</option>
+						<option>I was</option>
+						<option>moved</option>
+						<answer>When I was three years old, my family moved to Georgia.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>San Fransisco?</option>
+						<option>When</option>
+						<option>did</option>
+						<option>you</option>
+						<option>move</option>
+						<option>to</option>
+						<answer>When did you move to San Fransisco?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0607C.jpg</image>
+				<audio>NDE0607C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Mike Johnson. Mike was born in Mississippi and grew up in Atlanta, Georgia. Mike, I'd like to ask you a question.
+
+Mike: Sure.
+
+Kathy: What was it like, growing up in the South?
+
+Mike: Well, Atlanta is a great city. And for an African-American family like ours, it was a great city to grow up in. We lived in a small house in a nice neighborhood. Some of our neighbors were African American, and some were white. We all got along very well together.
+
+Kathy: Things changed a lot in the South during the 1960's and 1970's, didn't they?
+
+Mike: Yes, they did. When my father was growing up, things were very different. He was born in Mississippi in 1939. At that time, life was very hard for African Americans. By the time we moved to Atlanta, things were better. But even today, there still is racial prejudice in America.
+
+Kathy: Martin Luther King, Jr. was born in Atlanta, wasn't he?
+
+Mike: Yes, he was. He was born in Atlanta in 1929.</viewscript>
+				<comprehension>
+					<title>Lesson 7-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How did Mike feel about growing up in Atlanta, Georgia?</question>
+						<option>It was a great city to grow up in.</option>
+						<option>He was not very happy.</option>
+						<option>All of his neighbors were white.</option>
+						<answer>It was a great city to grow up in.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When Mike was growing up, did his family get along with their neighbors?</question>
+						<option>Yes. They got along very well.</option>
+						<option>No, they didn't. There was too much racial prejudice.</option>
+						<option>Yes, but only with the African-American families.</option>
+						<answer>Yes. They got along very well.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How were conditions in the South when Mike's father was growing up?</question>
+						<option>Things were different. Life was very hard for African Americans.</option>
+						<option>He lived in a small house in a nice neighborhood.</option>
+						<option>Conditions in the South were the same as they are now.</option>
+						<answer>Things were different. Life was very hard for African Americans.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Things changed a lot in the South ______ the 1960's and 1970's.</question>
+						<option>during</option>
+						<option>among</option>
+						<option>while</option>
+						<answer>during</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>When my father ___________ up, things were very different.</question>
+						<option>was growing</option>
+						<option>grows</option>
+						<option>is growing</option>
+						<answer>was growing</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>By the time we moved to Atlanta, things ____ better.</question>
+						<option>were</option>
+						<option>are</option>
+						<option>have been</option>
+						<answer>were</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: When did you graduate?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0608A.jpg</image>
+				<audio>NDE0608A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+
+Max: Hi, Kathy.
+
+Kathy: How's your book?
+
+Max: My book about Einstein?  It's very interesting. I'm reading about his school days.
+
+Kathy: School days? Einstein was a good student, wasn't he?
+
+Max: Well, actually, Einstein didn't like school.
+
+Kathy: He didn't?!
+
+Max: No, he didn't.  He preferred to work on his own.
+
+Kathy: Where did he go to school?
+
+Max: He attended schools in both Germany and Switzerland.
+
+Kathy: How about college? Where did he go to college?
+
+Max: He went to a university in Switzerland, where he studied physics. He graduated in 1900.</viewscript>
+				<comprehension>
+					<title>Lesson 8-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Did Albert Einstein like school?</question>
+						<option>No, he didn't. He preferred to work on his own.</option>
+						<option>No, he didn't. He never went to school.</option>
+						<option>Yes, he was a very good student.</option>
+						<answer>No, he didn't. He preferred to work on his own.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did Einstein study in college?</question>
+						<option>Physics</option>
+						<option>Mathematics</option>
+						<option>Chemistry</option>
+						<answer>Physics</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When did Einstein graduate from university?</question>
+						<option>1900</option>
+						<option>1909</option>
+						<option>1890</option>
+						<answer>1900</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Einstein preferred _______ on his own.</question>
+						<option>to work</option>
+						<option>work</option>
+						<option>worked</option>
+						<answer>to work</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He ________ schools in both Germany and Switzerland.</question>
+						<option>attended</option>
+						<option>attend</option>
+						<option>attending</option>
+						<answer>attended</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>He graduated __ 1900.</question>
+						<option>in</option>
+						<option>on</option>
+						<option>at</option>
+						<answer>in</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0608B.jpg</image>
+				<audio>NDE0608B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sara Scott. Hello, Sara.
+
+Sara: Hi, Kathy.
+
+Kathy: You and your sister live in Chicago, don't you?
+
+Sara: Yes, we do.
+
+Kathy: Is that where you grew up?
+
+Sara: Yes, it is. My sister and I were both born there.
+
+Kathy: After you graduated from high school, did you go to college in Chicago?
+
+Sara: No, I didn't. I went to college in Maryland.
+
+Kathy: Where did you go?  What school did you go to?
+
+Sara: I went to the University of Maryland, where I studied pre-med.
+
+Kathy: When did you graduate?  How long ago?
+
+Sara: I graduated... seven years ago.
+
+Kathy: What did you do after you graduated?
+
+Sara: Well, for one year, I worked in a small clinic in Chicago. Then I began medical school.</viewscript>
+				<comprehension>
+					<title>Lesson 8-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0608B_Q1.mp3|Where did Sara and her sister grow up?</question>
+						<option>Chicago</option>
+						<option>Maryland</option>
+						<option>Georgia</option>
+						<answer>Chicago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0608B_Q2.mp3|Did she go to college in Chicago?</question>
+						<option>No, she didn't.</option>
+						<option>Yes, she did. She went to the University of Chicago.</option>
+						<option>No, she didn't. She didn't go to college.</option>
+						<answer>No, she didn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0608B_Q3.mp3|How long ago did she graduate from college?</question>
+						<option>seven years ago</option>
+						<option>1970</option>
+						<option>four years</option>
+						<answer>seven years ago</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>My sister</option>
+						<option>and I</option>
+						<option>were both</option>
+						<option>in</option>
+						<option>born</option>
+						<option>Chicago.</option>
+						<answer>My sister and I were both born in Chicago.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Maryland.</option>
+						<option>I</option>
+						<option>to</option>
+						<option>went</option>
+						<option>college</option>
+						<option>in</option>
+						<answer>I went to college in Maryland.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>you graduated?</option>
+						<option>What</option>
+						<option>did</option>
+						<option>you</option>
+						<option>do</option>
+						<option>after</option>
+						<answer>What did you do after you graduated?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0608C.jpg</image>
+				<audio>NDE0608C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Dr. Sara Scott. After she graduated from the University of Maryland, Sara went to medical school. Sara, where did to you go to medical school?
+
+Sara: In Michigan.  At the University of Michigan Medical School.
+
+Kathy: How many years were you in medical school?
+
+Sara: I was there for four years.
+
+Kathy: Can you tell us a little about your studies?
+
+Sara: Sure. During the first year, we studied basic medicine. Then, in the second year, we learned about different diseases.
+
+Kathy: And in the third year? What did you study during the third year?
+
+Sara: During the third and fourth years, we worked directly with patients. We worked with different kinds of patients--children, old people, and so on. For example, for six weeks, I worked with mothers and their new babies. And then for the next six weeks, I worked with small children.
+
+Kathy: When did you get your degree?
+
+Sara: I got my degree two years ago.</viewscript>
+				<comprehension>
+					<title>Lesson 8-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many years was Sara in medical school?</question>
+						<option>four years</option>
+						<option>six years</option>
+						<option>two years</option>
+						<answer>four years</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What did she study in her second year?</question>
+						<option>She learned about different diseases.</option>
+						<option>She studied basic medicine.</option>
+						<option>She worked directly with patients.</option>
+						<answer>She learned about different diseases.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long ago did Sara get her degree?</question>
+						<option>two years ago</option>
+						<option>six years ago</option>
+						<option>four years ago</option>
+						<answer>two years ago</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How many years ____ you in medical school?</question>
+						<option>were</option>
+						<option>was</option>
+						<option>did</option>
+						<answer>were</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What did you study during the ______ year of medical school?</question>
+						<option>second</option>
+						<option>two</option>
+						<option>number two</option>
+						<answer>second</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>___  six weeks, I worked with mothers and their new babies.</question>
+						<option>For</option>
+						<option>With</option>
+						<option>By</option>
+						<answer>For</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: We got married in 1944.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0609A.jpg</image>
+				<audio>NDE0609A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+				
+Max: Hi, Kathy.
+
+Kathy: Still enjoying your book?
+
+Max: I am! Last night I read about Einstein's marriages.
+
+Kathy: Marriages? How many times did he get married?
+
+Max: Twice. He got married twice. He got married for the first time in 1902.
+
+Kathy: Nineteen-oh-two? That's two years after he graduated from college, isn't it?
+
+Max: Yes. He graduated in nineteen hundred, and he got married in 1902. Twelve years later, in 1914, he got divorced.
+
+Kathy: And he got married again?
+
+Max: Yes. In 1919, he got married for the second time.
+
+Kathy: Five years later.
+
+Max: Right. He married his second wife about five years after he got divorced.</viewscript>
+				<comprehension>
+					<title>Lesson 9-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many times did Einstein get married?</question>
+						<option>twice</option>
+						<option>three times</option>
+						<option>He never married.</option>
+						<answer>twice</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How long did his first marriage last?</question>
+						<option>twelve years</option>
+						<option>five years</option>
+						<option>two years</option>
+						<answer>twelve years</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When did he get married for the second time?</question>
+						<option>1919</option>
+						<option>1909</option>
+						<option>1929</option>
+						<answer>1919</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How many _____ did Einstein get married?</question>
+						<option>times</option>
+						<option>time</option>
+						<option>years</option>
+						<answer>times</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He graduated in 1900, and he ___ married in 1902.</question>
+						<option>got</option>
+						<option>get</option>
+						<option>had</option>
+						<answer>got</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>He married his second wife about five years _____ he got divorced.</question>
+						<option>after</option>
+						<option>since</option>
+						<option>until</option>
+						<answer>after</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0609B.jpg</image>
+				<audio>NDE0609B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Hello, Martha.
+
+Martha: Hi, Kathy.
+
+Kathy: Could you tell us a little about your husband?
+
+Martha: Sure. His name is Tom. He's retired now. He retired in 1985. He used to work for the government. He was a construction engineer.
+
+Kathy: When did you and Tom get married?
+
+Martha: Over fifty years ago. We're going to celebrate our sixtieth wedding anniversary soon.
+
+Kathy: That's wonderful. Married for sixty years!
+
+Martha:	Yes. We're very happily married.
+
+Kathy: Well, I hope I have a chance to meet Tom someday.
+
+Martha: I'm sure you will.</viewscript>
+				<comprehension>
+					<title>Lesson 9-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0609B_Q1.mp3|Who used to work for the government?</question>
+						<option>Martha's husband</option>
+						<option>Martha</option>
+						<option>Martha's brother</option>
+						<answer>Martha's husband</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0609B_Q2.mp3|How long ago did Martha get married?</question>
+						<option>over 50 years ago</option>
+						<option>more than 60 years ago</option>
+						<option>They got married in 1985.</option>
+						<answer>over 50 years ago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0609B_Q3.mp3|Which anniversary will they celebrate soon?</question>
+						<option>their 60th wedding anniversary</option>
+						<option>her 75th birthday</option>
+						<option>her 60th birthday</option>
+						<answer>their 60th wedding anniversary</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>the government.</option>
+						<option>He</option>
+						<option>used</option>
+						<option>to</option>
+						<option>work</option>
+						<option>for</option>
+						<answer>He used to work for the government.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>you and</option>
+						<option>When</option>
+						<option>did</option>
+						<option>Tom</option>
+						<option>get</option>
+						<option>married?</option>
+						<answer>When did you and Tom get married?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>going to</option>
+						<option>our 60th</option>
+						<option>We're</option>
+						<option>celebrate</option>
+						<option>wedding</option>
+						<option>anniversary.</option>
+						<answer>We're going to celebrate our 60th wedding anniversary.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0609C.jpg</image>
+				<audio>NDE0609C.mp3</audio>
+				<viewscript>Kathy: We're talking with Martha Harris about her husband and her marriage. Martha, may I ask, how did you meet your husband?
+
+Martha:	Oh, that's a funny story. I was working in a grocery store. Let's see...  This was in 1943. At the time, I was living in New York City. Well, one day, a young man walked into the store. He took an orange from the table... ...and all the other oranges rolled onto the floor. There were oranges everywhere! Well, everyone in the store was picking up oranges. And we were all laughing.
+
+Kathy: Yes.
+
+Martha: Well, after we put the all oranges back, he and I began to talk.
+
+Kathy: Unh huh.
+
+Martha:	And the next week, we went to a movie together. That was... June... June 1943. We got engaged two months later, in August.
+
+Kathy: When did you get married?
+
+Martha: We got married about a year later. In March, 1944.
+
+Kathy: Nineteen forty-four?
+
+Martha: Yes. That was a long time ago.</viewscript>
+				<comprehension>
+					<title>Lesson 9-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where was Martha working when she met her husband?</question>
+						<option>in a grocery store</option>
+						<option>in a department store</option>
+						<option>in a clothing store</option>
+						<answer>in a grocery store</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What happened when the oranges rolled onto the floor?</question>
+						<option>Everyone thought it was funny.</option>
+						<option>The owner of the store was angry.</option>
+						<option>The young man was very embarrassed.</option>
+						<answer>Everyone thought it was funny.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When did Martha and Tom get married?</question>
+						<option>less than a year after they met</option>
+						<option>two months after they met</option>
+						<option>one week after they met</option>
+						<answer>less than a year after they met</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>At the time, I ___ living in New York City.</question>
+						<option>was</option>
+						<option>am</option>
+						<option>have</option>
+						<answer>was</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The next week, we ____ to a movie together.</question>
+						<option>went</option>
+						<option>saw</option>
+						<option>watched</option>
+						<answer>went</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We got ______ about a year later.</question>
+						<option>married</option>
+						<option>marry</option>
+						<option>marriage</option>
+						<answer>married</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0609_bonus.jpg</image>
+				<audio>NDE0609_BONUS.mp3</audio>
+				<viewscript>Kent: Hello. This is the New Dynamic English Man on the Street, Kent Moss. I'm at the FDR Memorial in Washington, D.C. FDR was Franklin Delano Roosevelt, the thirty-second president of the United States. Excuse me, ma'am?
+
+Woman: Yes?
+
+Kent: Are you here to learn more about President Roosevelt?
+
+Woman: I want to learn more about Mrs. Roosevelt.
+
+Kent: Mrs. Roosevelt? The President's wife?
+
+Woman: Yes. I think Eleanor Roosevelt was a great American. She helped poor people in America and other people who needed help.
+
+Kent: She came from a rich family, didn't she?
+
+Woman: Yes, she did. Both she and her husband Franklin came from very rich families. But Eleanor's mother and father both died when she was a child.
+
+Kent: When did she marry Franklin Roosevelt?
+
+Woman: They got married in 1905, when Eleanor was twenty-one. After Franklin Roosevelt became president in 1933, she worked with him to help poor Americans. She was a very active First Lady.
+
+Kent: What did she do after her husband died?
+
+Woman: He died in 1945, but Eleanor continued to work for human rights.
+
+Kent: She lived a long life, didn't she?
+
+Woman: Yes, she did. She was born in 1884, and she died in 1962, at the age of 78. She was a wonderful woman and a great American.
+
+Kent: Thank you for talking with me today.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of family did Eleanor Roosevelt come from?</question>
+						<option>a rich family</option>
+						<option>a poor family</option>
+						<option>a middle class family</option>
+						<answer>a rich family</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How old was Eleanor when she married Franklin?</question>
+						<option>21 years old</option>
+						<option>33 years old</option>
+						<option>45 years old</option>
+						<answer>21 years old</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When her husband was President, what did Eleanor do as First Lady?</question>
+						<option>She worked to help poor people in America.</option>
+						<option>She became Vice President of the United States.</option>
+						<option>She stopped working.</option>
+						<answer>She worked to help poor people in America.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Eleanor's mother and father both died when she ___ a child.</question>
+						<option>was</option>
+						<option>is</option>
+						<option>has been</option>
+						<answer>was</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>They got ______ in 1905, when Eleanor was twenty-one.</question>
+						<option>married</option>
+						<option>marries</option>
+						<option>marry</option>
+						<answer>married</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What did she do after her husband ____?</question>
+						<option>died</option>
+						<option>die</option>
+						<option>did die</option>
+						<answer>died</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: What do you do at the post office?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0610A.jpg</image>
+				<audio>NDE0610A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+
+Max: Hi, Kathy.
+
+Kathy: How's your book?
+
+Max: Oh, it's good. Now I'm reading about Einstein's work history. You know, Einstein's first job was as a clerk. He was a clerk in a government office in Switzerland.
+
+Kathy: How long did he work there?
+
+Max: For seven years. He worked there for seven years, from 1902 to 1909. During that time, he wrote several important scientific papers... in his spare time. Then, in 1912, he moved back to Germany. He became a professor at the University of Berlin.
+
+Kathy: Did he stay in Germany?
+
+Max: He stayed there for almost twenty years. In 1933, he moved to the United States.</viewscript>
+				<comprehension>
+					<title>Lesson 10-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What was Albert Einstein's first job?</question>
+						<option>He was a clerk in a government office.</option>
+						<option>He was a physicist.</option>
+						<option>He was a professor.</option>
+						<answer>He was a clerk in a government office.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When did Einstein move from Switzerland to Germany?</question>
+						<option>1912</option>
+						<option>1929</option>
+						<option>1933</option>
+						<answer>1912</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long did Einstein stay in Germany before he moved to the United States?</question>
+						<option>about 20 years</option>
+						<option>less than 10 years</option>
+						<option>more than 30 years</option>
+						<answer>about 20 years</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How long ___ he work in Switzerland?</question>
+						<option>did</option>
+						<option>was</option>
+						<option>years</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He ______ a professor at the University of Berlin.</question>
+						<option>became</option>
+						<option>become</option>
+						<option>becomes</option>
+						<answer>became</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>He stayed in Germany ___ almost twenty years.</question>
+						<option>for</option>
+						<option>during</option>
+						<option>since</option>
+						<answer>for</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0610B.jpg</image>
+				<audio>NDE0610B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. Hello, Bob.
+
+Bob: Hello, Kathy.
+
+Kathy: You work for the post office, don't you?
+
+Bob: Yes, I do.  I started working for the post office in 1990.
+
+Kathy: What did you do before that?
+
+Bob: I was a carpenter.
+
+Kathy: A carpenter?
+
+Bob: Yes. I built houses. I was a carpenter for about seven years.
+
+Kathy: And before that?
+
+Bob: Before that, I was in college. While I was in college, I worked in a Mexican restaurant.</viewscript>
+				<comprehension>
+					<title>Lesson 10-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0610B_Q1.mp3|What did Bob do before he started working for the post office?</question>
+						<option>He was a carpenter.</option>
+						<option>He sold houses.</option>
+						<option>He was a restaurant manager.</option>
+						<answer>He was a carpenter.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0610B_Q2.mp3|When did he start working at the post office?</question>
+						<option>1990</option>
+						<option>1995</option>
+						<option>2005</option>
+						<answer>1990</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0610B_Q3.mp3|Where did he work when he was in college?</question>
+						<option>at a Mexican restaurant</option>
+						<option>at a restaurant in Mexico</option>
+						<option>at the post office</option>
+						<answer>at a Mexican restaurant</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>for the</option>
+						<option>post office</option>
+						<option>in 1990.</option>
+						<option>I</option>
+						<option>started</option>
+						<option>working</option>
+						<answer>I started working for the post office in 1990.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>a carpenter</option>
+						<option>seven years.</option>
+						<option>I</option>
+						<option>was</option>
+						<option>for</option>
+						<option>about</option>
+						<answer>I was a carpenter for about seven years.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>restaurant.</option>
+						<option>While</option>
+						<option>I was</option>
+						<option>in college,</option>
+						<option>I worked</option>
+						<option>in a Mexican</option>
+						<answer>While I was in college, I worked in a Mexican restaurant.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0610C.jpg</image>
+				<audio>NDE0610C.mp3</audio>
+				<viewscript>Kathy: Our guest is Bob Harris. What do you do at the post office? What's your position?
+
+Bob: I'm Assistant Manager.
+
+Kathy: What was your starting position?
+
+Bob: I started as a mail clerk. And then I became a mail carrier. Two years ago I was promoted to Assistant Manager.
+
+Kathy: What are your plans for the future?
+
+Bob: If I stay at the post office, I may get promoted to Manager in a year or two. But I'm thinking about leaving the post office.
+
+Kathy: You're thinking about changing jobs?
+
+Bob: Yes, I'm thinking about starting my own business.
+
+Kathy: What kind of business?
+
+Bob: Well, I'm thinking about opening up a coffee house. Maybe I'll do it next year.</viewscript>
+				<comprehension>
+					<title>Lesson 10-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When was Bob promoted to his current position?</question>
+						<option>two years ago</option>
+						<option>earlier this year</option>
+						<option>about seven years ago</option>
+						<answer>two years ago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What may happen if he stays at the post office?</question>
+						<option>He may get promoted.</option>
+						<option>He may become Assistant Manager.</option>
+						<option>He will become the manager.</option>
+						<answer>He may get promoted.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What will Bob do if he stops working at the post office?</question>
+						<option>He may open a coffee house.</option>
+						<option>He has no idea.</option>
+						<option>He'll start his own business on the internet.</option>
+						<answer>He may open a coffee house.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Two years ago I ____________ to Assistant Manager.</question>
+						<option>was promoted</option>
+						<option>promoted</option>
+						<option>promote</option>
+						<answer>was promoted</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>If I stay at the post office, I ___ get promoted to Manager.</question>
+						<option>may</option>
+						<option>do</option>
+						<option>was</option>
+						<answer>may</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'm thinking about ________ my own business.</question>
+						<option>starting</option>
+						<option>start</option>
+						<option>to start</option>
+						<answer>starting</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: He moved to Los Angeles.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0611A.jpg</image>
+				<audio>NDE0611A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+
+Max: Hi, Kathy.
+
+Kathy: I have a question about Einstein.
+
+Max: Sure, what is it?
+
+Kathy: Did Einstein ever return to Germany, after he moved to the US?
+
+Max: No, he didn't. He never returned to Germany.
+
+Kathy: Why not?
+
+Max: In 1933, Hitler came to power in Germany. Einstein was Jewish, so he was not safe in Germany.
+
+Kathy: So he stayed in the U.S.
+
+Max: Yes. From 1933 until his death, Einstein lived in the United States.
+
+Kathy: Did he become an American citizen?
+
+Max: Yes, he did. In 1941 he became an American citizen.</viewscript>
+				<comprehension>
+					<title>Lesson 11-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Einstein move back to Germany?</question>
+						<option>Einstein never returned to Germany.</option>
+						<option>in 1933</option>
+						<option>in 1941</option>
+						<answer>Einstein never returned to Germany.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why wasn't Einstein safe in Germany when Hitler came to power?</question>
+						<option>Einstein was Jewish.</option>
+						<option>Einstein was an American citizen.</option>
+						<option>Einstein wasn't German.</option>
+						<answer>Einstein was Jewish.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Did Einstein become an American citizen?</question>
+						<option>He became an American citizen in 1941.</option>
+						<option>He did not want to become an American citizen.</option>
+						<option>He couldn't become American citizen because he was born in Germany.</option>
+						<answer>He became an American citizen in 1941.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Did Einstein ____ return to Germany?</question>
+						<option>ever</option>
+						<option>never</option>
+						<option>want</option>
+						<answer>ever</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Einstein was Jewish, __ he was not safe in Germany.</question>
+						<option>so</option>
+						<option>because</option>
+						<option>since</option>
+						<answer>so</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Did he _____ an American citizen?</question>
+						<option>become</option>
+						<option>became</option>
+						<option>becomes</option>
+						<answer>become</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0611B.jpg</image>
+				<audio>NDE0611B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Hello, Maria,
+
+Maria: Hi, Kathy.
+
+Kathy: Maria, you live in San Jose, don't you?
+
+Maria: Yes, San Jose, California. My parents moved to San Jose when I was very young.
+
+Kathy: Where were you born?
+
+Maria: I was born in Los Angeles... Los Angeles, California. My father moved to Los Angeles in 1952. And my mother moved there in 1955.
+
+Kathy: Did your mother and father meet in Los Angeles?
+
+Maria: Yes, they did. They met each other in ... 1956, I think. And they got married in 1957.
+
+Kathy: When did your family move to San Jose?
+
+Maria: We moved there in 1962, two years after I was born.</viewscript>
+				<comprehension>
+					<title>Lesson 11-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0611B_Q1.mp3|Where was Maria born?</question>
+						<option>in the United States</option>
+						<option>in Mexico City</option>
+						<option>in a small village</option>
+						<answer>in the United States</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0611B_Q2.mp3|Where were Maria's parents living when they met?</question>
+						<option>Los Angeles</option>
+						<option>San Jose</option>
+						<option>Mexico</option>
+						<answer>Los Angeles</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0611B_Q3.mp3|How old was Maria when her family moved to San Jose?</question>
+						<option>two years old</option>
+						<option>1962</option>
+						<option>She was born in San Jose.</option>
+						<answer>two years old</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>My parents</option>
+						<option>moved to</option>
+						<option>San Jose</option>
+						<option>when I</option>
+						<option>very young.</option>
+						<option>was</option>
+						<answer>My parents moved to San Jose when I was very young.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>your mother</option>
+						<option>in Los Angeles?</option>
+						<option>Did</option>
+						<option>and</option>
+						<option>father</option>
+						<option>meet</option>
+						<answer>Did your mother and father meet in Los Angeles?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>your family</option>
+						<option>San Jose?</option>
+						<option>When</option>
+						<option>did</option>
+						<option>move</option>
+						<option>to</option>
+						<answer>When did your family move to San Jose?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0611C.jpg</image>
+				<audio>NDE0611C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Maria manages a clothing store in San Jose, California. We're talking about her parents. Maria, where did your parents live before they moved to California?
+
+Maria: My father lived in Mexico City. He was born in a small village, but his family moved to Mexico City in 1943. My mother was born in Mexico City, and she grew up there.
+
+Kathy: Why did your parents move to the United States?
+
+Maria: They moved to the U.S. to get better jobs. My father worked in a factory in Los Angeles. And my mother worked in a hotel. Every month they sent money to their parents in Mexico City.
+
+Kathy: They sound like wonderful people.</viewscript>
+				<comprehension>
+					<title>Lesson 11-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where did Maria's parents grow up?</question>
+						<option>Mexico</option>
+						<option>California</option>
+						<option>New York City</option>
+						<answer>Mexico</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who was born in a small village, Maria's mother or her father?</question>
+						<option>her father</option>
+						<option>her mother</option>
+						<option>Neither one. They were both born in Mexico City.</option>
+						<answer>her father</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where did Maria's father work when he first come to the United States?</question>
+						<option>in a factory</option>
+						<option>in a hotel</option>
+						<option>in a restaurant</option>
+						<answer>in a factory</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>My mother _______ in Mexico City, and she grew up there.</question>
+						<option>was born</option>
+						<option>born</option>
+						<option>has been born</option>
+						<answer>was born</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Why did your parents ____ to the United States?</question>
+						<option>move</option>
+						<option>moved</option>
+						<option>moving</option>
+						<answer>move</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Every month they sent ____ to their parents in Mexico City.</question>
+						<option>money</option>
+						<option>the money</option>
+						<option>a money</option>
+						<answer>money</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: My first camera.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0612A.jpg</image>
+				<audio>NDE0612A.mp3</audio>
+				<viewscript>Kathy: Hi, Max.
+				
+Max: Hi, Kathy.
+
+Kathy: How is your book about Einstein?
+
+Max: I finished it last night.
+
+Kathy: I was thinking... you said Einstein wasn't a good student.
+
+Max: Yes, that's right. He didn't like school.
+
+Kathy: So how did he become a great scientist, if he wasn't a good student?
+
+Max: Well, Einstein was always interested in how things worked. For example, when he was five years old, his father showed him a compass.
+
+Kathy: A compass?  What's so interesting about a compass?
+
+Max: Well, Einstein wondered why the compass needle always pointed in the same direction.
+
+Kathy: Hmm.
+
+Max: After that, he became interested in science. Even in the last years of his life, he continued to study physics.</viewscript>
+				<comprehension>
+					<title>Lesson 12-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Max finish reading his book about Albert Einstein?</question>
+						<option>last night</option>
+						<option>last week</option>
+						<option>He hasn't finished it yet.</option>
+						<answer>last night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What was Einstein interested in?</question>
+						<option>how things worked</option>
+						<option>doing well in school</option>
+						<option>becoming famous</option>
+						<answer>how things worked</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When Einstein was five years old, what did his father show him?</question>
+						<option>a compass</option>
+						<option>a needle</option>
+						<option>a book about science</option>
+						<answer>a compass</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Einstein wasn't a good student. He ______ like school.</question>
+						<option>didn't</option>
+						<option>wasn't</option>
+						<option>hasn't</option>
+						<answer>didn't</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He was always __________ in how things worked.</question>
+						<option>interested</option>
+						<option>interesting</option>
+						<option>interest</option>
+						<answer>interested</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Even in the last years of his ____, he continued to study physics.</question>
+						<option>life</option>
+						<option>live</option>
+						<option>living</option>
+						<answer>life</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0612B.jpg</image>
+				<audio>NDE0612B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Simon Tompkins. Simon is a professional photographer.
+
+Kathy: Welcome back to our show, Simon.
+
+Simon: It's nice to be here again.
+
+Kathy: Tell us, Simon, how did you become interested in photography?
+
+Simon: When I was seven years old, my parents bought me my first camera. I loved that camera.
+
+Kathy: Did you take a lot of pictures?
+
+Simon: I took pictures of everything I saw:  people, trees, buildings, everything. And when I was in tenth grade, I won first prize in a photography contest.
+
+Kathy: That's great.
+
+Simon: Oh, I was so excited! The photograph was published in the newspaper. After that, I knew that I wanted to be a photographer.</viewscript>
+				<comprehension>
+					<title>Lesson 12-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0612B_Q1.mp3|How old was Simon when his family bought him his first camera?</question>
+						<option>seven years old</option>
+						<option>ten years old</option>
+						<option>five years old</option>
+						<answer>seven years old</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0612B_Q2.mp3|What grade was Simon in when he won the photography contest?</question>
+						<option>tenth grade</option>
+						<option>first prize</option>
+						<option>seven years old</option>
+						<answer>tenth grade</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0612B_Q3.mp3|What was published in the newspaper?</question>
+						<option>a picture that Simon took</option>
+						<option>a picture of Simon</option>
+						<option>all of Simon's pictures</option>
+						<answer>a picture that Simon took</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>in photography?</option>
+						<option>How</option>
+						<option>did</option>
+						<option>you</option>
+						<option>become</option>
+						<option>interested</option>
+						<answer>How did you become interested in photography?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>in the</option>
+						<option>The</option>
+						<option>photograph</option>
+						<option>was</option>
+						<option>published</option>
+						<option>newspaper.</option>
+						<answer>The photograph was published in the newspaper.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>I wanted</option>
+						<option>to be</option>
+						<option>a photographer.</option>
+						<option>I</option>
+						<option>knew</option>
+						<option>that</option>
+						<answer>I knew that I wanted to be a photographer.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0612C.jpg</image>
+				<audio>NDE0612C.mp3</audio>
+				<viewscript>Kathy: We're talking with Simon Tompkins. Simon is a photographer. OK, Simon, when did you begin working as a photographer?
+
+Simon: Well, when I was in college, I took pictures for the school newspaper. I didn't get paid, but I learned a lot.
+
+Kathy: When did you become a professional photographer?
+
+Simon: In 1972.  In 1972 I got a job at a small magazine in Denver. I worked there for, oh, about twelve years, until 1984. Then I moved to New York City.
+
+Kathy: What did you do in New York City?
+
+Simon: I went to work for an advertising agency. That's where I met Tony, my friend Tony. He was working at the agency as a sales manager.
+
+Kathy: How long did you stay at that agency?
+
+Simon: For five years, until 1989. Then Tony and I moved to Boston.
+
+Kathy: What do you do now?
+
+Simon: I teach photography at a small college outside of Boston. And I still take lots of pictures for magazines and newspapers.</viewscript>
+				<comprehension>
+					<title>Lesson 12-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When did Simon begin working as a photographer?</question>
+						<option>when he was in college</option>
+						<option>when he moved to Denver</option>
+						<option>when he left New York</option>
+						<answer>when he was in college</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where was Simon living when he worked for an advertising agency?</question>
+						<option>New York City</option>
+						<option>Denver</option>
+						<option>Boston</option>
+						<answer>New York City</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does Simon do now?</question>
+						<option>He teaches photography at a small college.</option>
+						<option>He works for an advertising agency.</option>
+						<option>He takes pictures for a small magazine.</option>
+						<answer>He teaches photography at a small college.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>When ___ you begin working as a photographer?</question>
+						<option>did</option>
+						<option>do</option>
+						<option>have</option>
+						<answer>did</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What did you __ in New York City?</question>
+						<option>do</option>
+						<option>work</option>
+						<option>doing</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Tony was _______ at the agency as a sales manager.</question>
+						<option>working</option>
+						<option>worked</option>
+						<option>work</option>
+						<answer>working</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0612_bonus.jpg</image>
+				<audio>NDE0612_BONUS.mp3</audio>
+				<viewscript>Kent: This is Kent Moss, New Dynamic English Man on the Street. I'm on my way to the White House. And in just five minutes, I'll be talking to the First Lady herself! Say... that's a beautiful old car!
+
+Man: Why, thank you, young man. It's a 1922 Ford.
+
+Kent: Is that so?  Well... have a nice day...
+
+Man: It was built in Detroit, Michigan in 1921.
+
+Kent: No kidding! Well... I've got an important appointment... I'd better get going...
+
+Man: Its first owner was a silent movie star.
+
+Kent: Wow! How interesting... so... uh...
+
+Man: At that time, there were more horses than cars!
+
+Kent: Yes, I guess that's right. I really have to go now...
+
+Man: In 1928, this car raced against a horse. Guess who won?
+
+Kent: The horse? Well, it's time for me...
+
+Man: The horse?! Ha! Let me tell you about that horse...
+
+Kent: No, really... I'm late...
+
+Man: That horse was born in 1925...</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Why is Kent Moss in a hurry?</question>
+						<option>He is going to meet the First Lady-the wife of the President.</option>
+						<option>He is going to the White House to meet the President.</option>
+						<option>He wants to find out more about the man's car.</option>
+						<answer>He is going to meet the First Lady-the wife of the President.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When was the man's car built?</question>
+						<option>1921</option>
+						<option>1922</option>
+						<option>1920</option>
+						<answer>1921</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who was the first owner of the car?</question>
+						<option>a silent movie star</option>
+						<option>a racehorse owner</option>
+						<option>the First Lady</option>
+						<answer>a silent movie star</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>In just five minutes, ____ be talking to the First Lady.</question>
+						<option>I'll</option>
+						<option>I</option>
+						<option>will</option>
+						<answer>I'll</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The car ________ in Detroit, Michigan in 1921.</question>
+						<option>was built</option>
+						<option>built</option>
+						<option>build</option>
+						<answer>was built</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>In 1928, there ____ more horses than cars.</question>
+						<option>were</option>
+						<option>was</option>
+						<option>are</option>
+						<answer>were</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+</mainlist>

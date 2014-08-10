@@ -1,0 +1,11 @@
+com.awan.dyned.general
+com.awan.dyned.utils
+com.randi.dyned
+com.randi.dyned.model
+com.randi.dyned.model.connector
+com.randi.dyned.model.persistable
+com.randi.dyned.tools
+com.randi.dyned.view
+com.randi.dyned.view.field
+com.randi.dyned.view.manager
+org.json.me
